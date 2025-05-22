@@ -3,6 +3,13 @@ Network analysis of retail data using Gephi. Identifies influential customers an
 
 ---
 
+> This repository contains network-based analysis of retail datasets using Gephi.  
+> Two scenarios are explored:
+> - FM_1: Identifying influential customers
+> - FM_2: Discovering complementary product patterns
+
+---
+
 ## 🚀 Interactive Notebooks (Google Colab)
 
 You can view and run the interactive Python notebooks for each scenario directly in Google Colab:
