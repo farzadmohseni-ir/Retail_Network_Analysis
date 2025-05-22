@@ -13,6 +13,29 @@ You can view and run the interactive Python notebooks for each scenario directly
 
 ---
 
+## 🖼️ Sample Network Visualizations
+
+### 🔷 FM_1 – Influential Customers Network (Q1)
+
+Examples of user-product graphs created in Gephi showing central users and community structures:
+
+![Q1 Screenshot 1](Q1/Answer%20output/Screenshot%202025-05-22%20095517.jpg)
+![Q1 Screenshot 2](Q1/Answer%20output/Screenshot%202025-05-22%20104317.jpg)
+![Q1 Screenshot 3](Q1/Answer%20output/Screenshot%202025-05-22%20124008.jpg)
+
+---
+
+### 🔶 FM_2 – Complementary Products Network (Q2)
+
+Examples of co-purchase product graphs with modularity-based clustering and degree-based sizing:
+
+![Q2 Screenshot 1](Q2/Answer%20output/screenshot_113109.png)
+![Q2 Screenshot 2](Q2/Answer%20output/screenshot_114552.png)
+![Q2 Screenshot 3](Q2/Answer%20output/screenshot_115009.png)
+
+
+---
+
 # 🎯 FM_1 - Influential Customer Network Analysis (WallMart Dataset)
 
 ## 📝 Question Description
