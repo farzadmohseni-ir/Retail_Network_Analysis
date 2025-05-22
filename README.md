@@ -3,6 +3,16 @@ Network analysis of retail data using Gephi. Identifies influential customers an
 
 ---
 
+## 🚀 Interactive Notebooks (Google Colab)
+
+You can view and run the interactive Python notebooks for each scenario directly in Google Colab:
+
+- [🧠 FM_1 - Influential Customer Network (WallMart)](https://colab.research.google.com/drive/1pfq0vwhJMSI7u_2EguONwA7YELJFAtEg?usp=sharing)
+- [🛒 FM_2 - Complementary Product Network (Sales Transactions)](https://colab.research.google.com/drive/13ch_MMPjLBmgx7ZTrygeQ5X5LY5unsT-?usp=sharing)
+
+
+---
+
 # 🎯 FM_1 - Influential Customer Network Analysis (WallMart Dataset)
 
 ## 📝 Question Description
